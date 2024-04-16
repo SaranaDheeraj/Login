@@ -1,0 +1,17 @@
+<svg width="75" height="75" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Email">
+<g id="Ellipse 1" filter="url(#filter0_b_14_98)">
+<circle cx="50" cy="50" r="50" fill="#D9D9D9" fill-opacity="0.24"/>
+</g>
+<path id="vector" d="M63 72H37C29.2 72 24 68.1176 24 59.0588V40.9412C24 31.8824 29.2 28 37 28H63C70.8 28 76 31.8824 76 40.9412V59.0588C76 68.1176 70.8 72 63 72Z" stroke="white" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="vector_2" d="M67 39L53.0709 49.9352C51.2621 51.3549 48.7379 51.3549 46.9292 49.9352L33 39" stroke="white" stroke-width="2" stroke-linecap="round"/>
+</g>
+<defs>
+<filter id="filter0_b_14_98" x="-16" y="-16" width="132" height="132" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="8"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_14_98"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_14_98" result="shape"/>
+</filter>
+</defs>
+</svg>
